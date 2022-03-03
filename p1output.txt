@@ -1,1 +1,8 @@
+ gcc -g p1original.c
+ ./a.out
+enter num1:1
+enter den1:2
+enter num2:1
+enter den2:4
+the sum of 1/2+ 1/4 = 6/8 
 
